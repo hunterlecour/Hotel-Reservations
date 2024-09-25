@@ -1,0 +1,329 @@
+company_id,company_name
+8,Lindgren Group
+9,Gottlieb LLC
+10,"Swift, Raynor and Greenholt"
+11,Schneider-Bayer
+12,Leffler-Collier
+14,"Davis, Aufderhar and Harris"
+16,Harris and Sons
+18,Schroeder-Kessler
+20,McKenzie-Kshlerin
+22,Beatty-Walter
+28,Pagac-D'Amore
+29,"Wiegand, Davis and Witting"
+31,Cassin LLC
+34,Abbott LLC
+37,Nitzsche Inc
+38,Kulas LLC
+39,"Klocko, Pouros and Howe"
+40,Bashirian LLC
+42,Murphy-Dach
+43,Kub-Farrell
+45,Parisian-Schulist
+46,Heaney-Robel
+47,Ritchie-Raynor
+48,"Keebler, Kuhic and Hegmann"
+49,"McGlynn, Legros and Harris"
+51,"Hand, Skiles and Abshire"
+52,Bechtelar-Christiansen
+53,"Crona, Ruecker and Hermann"
+59,Hodkiewicz and Sons
+61,"Langworth, Lehner and Cronin"
+62,"Nikolaus, Huels and Stanton"
+65,Anderson-Bahringer
+67,Aufderhar Inc
+68,Oberbrunner-Reilly
+71,DuBuque and Sons
+72,Olson LLC
+73,Harber-Quitzon
+76,Koepp-Quitzon
+77,"Stehr, Wintheiser and Block"
+78,Kunze-Bogan
+80,Kunze-Hayes
+81,Wunsch and Sons
+82,Brakus LLC
+83,Kuvalis-Herman
+84,Breitenberg LLC
+85,Stokes-Batz
+86,Grady LLC
+88,"Nienow, Zulauf and Parisian"
+91,"Wilderman, Okuneva and Schultz"
+92,"Hintz, Roob and Hyatt"
+93,"Lesch, Gleason and Jerde"
+94,Emmerich-Corwin
+96,Thompson and Sons
+99,Berge-Flatley
+100,"Thompson, Jacobi and Turcotte"
+101,Feeney-Zulauf
+102,Ledner Inc
+103,"Treutel, Mayer and Boyle"
+104,Schroeder-Runte
+105,Kreiger LLC
+106,"Shanahan, Macejkovic and Streich"
+107,Dickens Inc
+108,Koelpin-Heidenreich
+110,"Mohr, Grimes and Hand"
+112,Vandervort-Anderson
+113,D'Amore-Hartmann
+115,"Tromp, Ryan and Bahringer"
+116,"Braun, Willms and Nikolaus"
+118,Koss-Fay
+120,McCullough-Farrell
+122,Kautzer and Sons
+127,"D'Amore, Pagac and Effertz"
+130,Schamberger Inc
+132,Will-Hayes
+135,"Crona, Schuster and Abernathy"
+137,"Goyette, Morar and Herman"
+139,Spencer and Sons
+140,"Miller, Zemlak and Beer"
+142,"Bartoletti, Jast and Heidenreich"
+143,Heaney-Kris
+144,Schuster-Heidenreich
+146,"Brakus, Kirlin and Hoeger"
+148,Walsh-D'Amore
+149,Trantow-Kris
+150,Watsica-Hansen
+153,"Heathcote, Abernathy and Rosenbaum"
+154,"Schneider, McCullough and Schmeler"
+158,"Jones, Hudson and Hand"
+159,Mohr-Trantow
+160,Schultz Inc
+163,Ward-Bogan
+168,"Bartoletti, Buckridge and Balistreri"
+169,Hamill Inc
+174,"Rogahn, Russel and Thompson"
+178,Gottlieb Group
+179,Hickle Group
+180,"Lind, Wiegand and Mayer"
+183,"Legros, Quitzon and Bernhard"
+184,"Steuber, Heller and O'Reilly"
+185,Ankunding Inc
+186,Sipes Group
+192,Labadie Group
+193,Lebsack-Pouros
+195,"Zulauf, Goodwin and Crooks"
+197,Schneider LLC
+200,Jenkins Group
+202,Glover-Waters
+204,"Bogisich, Adams and McLaughlin"
+207,Cronin-Fahey
+209,Stroman and Sons
+210,"Quigley, Collins and Mertz"
+212,"Treutel, Funk and Kemmer"
+213,Purdy Group
+215,"Goodwin, Lindgren and Walker"
+216,"Howe, Heller and Runolfsson"
+217,Baumbach Inc
+218,Rippin LLC
+219,Roberts LLC
+220,MacGyver Group
+221,Schultz-Romaguera
+222,Stanton Inc
+223,"Jaskolski, Crona and Senger"
+224,Lowe-Volkman
+225,"Durgan, Bednar and Wisozk"
+227,"Rosenbaum, Bayer and Champlin"
+229,Stiedemann Group
+230,"Von, Moore and Pagac"
+232,"Leffler, Murray and Kulas"
+233,Connelly LLC
+237,Collier-Bernier
+238,Wehner-Buckridge
+240,Rice Group
+242,"Rath, Schimmel and O'Hara"
+243,"Waelchi, Dietrich and Reynolds"
+245,"Simonis, Grimes and Graham"
+246,"Harber, Dooley and Gibson"
+250,Marquardt LLC
+251,"O'Kon, Green and Pfannerstill"
+253,Gutmann Inc
+254,"Mueller, Schuster and Predovic"
+255,Donnelly LLC
+257,Dach LLC
+258,Hegmann Inc
+259,Hegmann-Deckow
+260,"Mraz, Bashirian and Lemke"
+263,Corkery-Mayert
+264,"Rath, Sporer and Hettinger"
+268,"Hilll, Von and Kub"
+269,Koepp-Bayer
+270,Champlin-O'Hara
+271,"Miller, Moen and Kirlin"
+272,DuBuque Group
+273,"Glover, Osinski and Steuber"
+274,Lueilwitz Group
+275,"Johnston, Keeling and Welch"
+277,Crist-Stroman
+278,Kreiger LLC
+280,"Shanahan, Stehr and Blanda"
+281,"Bergstrom, Cronin and Kuvalis"
+282,"Schmeler, Stamm and West"
+284,"Cassin, Feil and Emard"
+286,Mills-Treutel
+287,Shanahan Group
+290,"Powlowski, Haag and Upton"
+291,Funk and Sons
+292,"Hilll, Durgan and Considine"
+293,"Beahan, Doyle and Bruen"
+297,Hodkiewicz LLC
+301,Skiles-Kuhic
+304,Dicki Inc
+305,Baumbach Inc
+307,"Ferry, Gerhold and Hackett"
+308,Schoen-Rau
+309,"Sauer, Torphy and Kuhn"
+311,Hackett LLC
+312,Armstrong and Sons
+313,Kuphal-Block
+316,Jacobi-Haley
+317,Spinka-Braun
+318,Stoltenberg-Hilpert
+319,Osinski-Zulauf
+320,"Schoen, Rogahn and McGlynn"
+321,Frami-Williamson
+323,Kemmer Group
+324,"Lind, Ankunding and Hane"
+325,Schuppe Group
+329,Mueller-Leannon
+330,Shields-Hane
+331,"Keebler, Gulgowski and Upton"
+332,"Dickens, Langosh and Abshire"
+333,Grant Group
+337,"Weissnat, Rohan and Gutkowski"
+338,Johnston-Halvorson
+341,"Hodkiewicz, Kris and Nader"
+342,Quigley-Stehr
+343,"Gerhold, Fritsch and Turcotte"
+346,Powlowski Group
+347,"Senger, Kiehn and Huels"
+348,Herman-Kilback
+349,"Sauer, Champlin and Hagenes"
+350,"Kertzmann, Bednar and Weissnat"
+351,"Marquardt, Stokes and Conroy"
+352,McLaughlin-Davis
+353,Flatley-Anderson
+355,"Cassin, Koss and Monahan"
+356,"Langosh, Hills and Bode"
+357,"Braun, Hintz and McClure"
+358,Zieme-Huel
+360,"Rath, Stroman and Wiegand"
+361,Bashirian Inc
+362,Bruen Group
+364,Mayer-Anderson
+365,Beatty-Reilly
+366,Reinger Group
+367,Hoeger-Denesik
+368,Jaskolski-Conroy
+369,Gleichner and Sons
+371,Kilback Group
+372,"Wiza, Nolan and Bednar"
+376,Koch Inc
+377,Bosco and Sons
+379,Reynolds-Mosciski
+380,Sporer Inc
+383,Reynolds and Sons
+384,Feest Group
+385,Koepp Group
+388,Leuschke-Feeney
+390,Rice-Feeney
+391,West-Bernhard
+392,"Deckow, Witting and Kulas"
+393,Kovacek-Barton
+394,"Breitenberg, Mraz and Yundt"
+395,Baumbach Group
+396,"Crooks, Ziemann and Mohr"
+397,"Walker, Hegmann and Padberg"
+398,"Jones, Raynor and Dietrich"
+399,Balistreri Inc
+400,"Luettgen, Howe and Heathcote"
+401,Hodkiewicz-Rodriguez
+402,Skiles-Ferry
+403,Bode LLC
+405,Renner-Hills
+407,"Armstrong, Cruickshank and Kutch"
+408,Kautzer-Murazik
+409,"Zemlak, DuBuque and Langworth"
+410,Weimann LLC
+411,"Reichert, Baumbach and Haley"
+412,Zieme-Barton
+413,Lubowitz Group
+415,Schultz and Sons
+416,McGlynn Inc
+417,"Kub, Prohaska and Bayer"
+418,"Hayes, Zboncak and Schaefer"
+419,Erdman-Sanford
+420,"Friesen, Jakubowski and Hoppe"
+421,"Zemlak, Lakin and Brekke"
+422,Corkery-Mills
+423,Murphy-Considine
+424,Bechtelar-Hoppe
+425,Nikolaus Group
+426,Bashirian LLC
+428,"Waelchi, Mosciski and Cassin"
+429,Moore LLC
+433,Fadel and Sons
+435,Jakubowski Inc
+436,Goodwin Group
+437,"Stehr, Rau and Ritchie"
+439,"Stamm, Lockman and Weimann"
+442,Durgan-Emmerich
+443,"Stoltenberg, Moore and Russel"
+444,"Towne, Gerhold and Kautzer"
+445,Gleichner-Walsh
+446,"Hintz, Fay and Waelchi"
+447,Mosciski-Windler
+448,Bernier Group
+450,Ruecker-Runolfsson
+451,Monahan LLC
+452,Roberts Group
+454,Kunde-Lemke
+455,Feeney-Jenkins
+456,Strosin LLC
+457,Bins Inc
+458,Zboncak Inc
+459,"Fahey, Russel and Lehner"
+460,Jacobson-Auer
+461,Monahan-Hegmann
+465,"Witting, Kihn and Auer"
+466,Hagenes-Herman
+470,Barrows-Boyle
+477,"Ondricka, Harvey and Conroy"
+478,Schimmel LLC
+479,Harvey LLC
+481,"Wilderman, Hane and Raynor"
+482,Wehner Inc
+483,Thompson-Goyette
+484,Russel-Huels
+485,Mante-Purdy
+486,Price and Sons
+487,"Frami, Morissette and Harris"
+489,Effertz-Sanford
+490,"Klocko, Rowe and Koss"
+491,"Doyle, O'Hara and Stoltenberg"
+492,"Prohaska, Ondricka and Zboncak"
+494,Keebler and Sons
+496,"Koepp, Hermann and Schumm"
+497,"Toy, Boehm and Mayert"
+498,Hammes-Ullrich
+499,O'Keefe-Bernier
+504,"Ankunding, Green and Hoeger"
+506,Stehr and Sons
+507,"Turcotte, Considine and Heaney"
+511,Bode-Gibson
+512,"Littel, Hilll and Torp"
+513,Quigley and Sons
+514,"Gulgowski, Krajcik and Nolan"
+515,Dicki LLC
+516,"Rohan, Vandervort and Ratke"
+520,Keeling-Waelchi
+521,McCullough Inc
+523,Schmidt-Lebsack
+525,Koelpin Group
+528,Daugherty and Sons
+530,"Friesen, Kozey and Friesen"
+531,Feeney-Ankunding
+534,Klein-Kunze
+539,Dickinson-Casper
+541,Braun Inc
+543,Feeney-Prohaska
